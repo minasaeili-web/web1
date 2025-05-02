@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(243, 231, 233);
+}
+
+main {
+    font-family: "Playwrite RO", cursive;
+}
+
+.bg-pink {
+    background-color: pink;
+    text-align: center;
+}
+.wond{
+    background-color: #facbfe;
+
+}
+
